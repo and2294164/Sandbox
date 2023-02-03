@@ -1,4 +1,10 @@
 package org.example.inheritance;
 
-public class Animal {
+public interface Animal {
+
+    public void eat();
+    public void breathe();
+    public void reproduce();
+
+
 }
