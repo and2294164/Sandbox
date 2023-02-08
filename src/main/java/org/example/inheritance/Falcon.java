@@ -7,4 +7,19 @@ public class Falcon extends Bird {
         this.canFly = true;
 
     }
+
+    @Override
+    public void eat() {
+
+    }
+
+    @Override
+    public void breathe() {
+
+    }
+
+    @Override
+    public void reproduce() {
+
+    }
 }

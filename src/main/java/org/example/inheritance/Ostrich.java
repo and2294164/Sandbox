@@ -7,4 +7,19 @@ public class Ostrich extends Bird {
         this.canFly = false;
 
     }
+
+    @Override
+    public void eat() {
+
+    }
+
+    @Override
+    public void breathe() {
+
+    }
+
+    @Override
+    public void reproduce() {
+
+    }
 }

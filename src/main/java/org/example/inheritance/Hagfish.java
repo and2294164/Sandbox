@@ -7,4 +7,19 @@ public class Hagfish extends Fish{
         this.hasScales = false;
 
     }
+
+    @Override
+    public void eat() {
+
+    }
+
+    @Override
+    public void breathe() {
+
+    }
+
+    @Override
+    public void reproduce() {
+
+    }
 }
